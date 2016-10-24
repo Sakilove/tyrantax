@@ -1,6 +1,6 @@
-# Blog of Wenli Zhang
+# Blog of TyrantaX
 
-Blog: http://zhangwenli.com/blog.
+Blog: http://www.freeclan.net/tyrantax.
 
 Topics: Web Front-End Developing and More.
 
