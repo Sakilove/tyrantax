@@ -16,7 +16,7 @@
     
     {% include aboutMe.html %}
     
-<section id="post-section-en">
+<section id="post-section">
     <h1>Technical Posts</h1>
     {% assign start = -1 | times: paginator.per_page | times: paginator.page %}
     {% if paginator.page == paginator.total_pages %}
@@ -75,67 +75,6 @@
     </div>
 </section>
 
-<section id="post-section-zn">
-    <h1>中文博客<a class="title-img" href="{{ site.url }}/feed-cn.xml" title="订阅中文博客RSS" target="_blank" onclick="_gaq.push(['_trackEvent', 'ToRss', 'CnRss', window.location.pathname]);"><img src="{{ site.url }}/img/rss-green.png" /></a></h1>
-    {% for post in sorted_post reversed %}
-        {% if post.hide != true %}
-            {% assign isZn = false %}
-            {% for tag in post.tags %}
-                {% if tag == '中文'%}
-                    {% assign isZn = true %}
-                {% endif %}
-            {% endfor %}
-
-            {% if isZn == true %}
-            <div class="post-block cn">
-                {% assign time = post.time %}
-                <div class="timeago cn" title="{{ time | replace: '.', '-' | replace: ' ', 'T' }}+08:00">{{ time }}</div>
-
-                <h5 class="post-series">
-                    {% if post.series %}
-                    <a href="{{ site.url }}{{ post.url }}" class="series-recent" onclick="_gaq.push(['_trackEvent', 'ToSeries', '{{ postCnt.size }}thPost', window.location.pathname]);">系列博文：{{ post.series }}</a>
-                    {% endif %}
-                </h5>
-                <h2>
-                    <a href="{{ site.url }}{{ post.url }}" onclick="_gaq.push(['_trackEvent', 'ToPost', 'InRecent', '{{ post.url }}']);">{{ post.title }}{% if post.subtitle != null %}：{{ post.subtitle }}{% endif %}</a>
-                </h2>
-
-                <div class="tagPanel">
-                {% for tag in post.tags %}
-                    <a href="{{ site.url }}/all?tag={{ tag }}" onclick="_gaq.push(['_trackEvent', 'ToTag', 'InRecent', '{{ postCnt.size }}thPost']);"><div class="tag">{{ tag }}</div></a>
-                {% endfor%}
-                {% if post.category == 'note' %}
-                    <a href="{{ site.url }}/notes" onclick="_gaq.push(['_trackEvent', 'ToNote', 'InRecent', '{{ postCnt.size }}thPost']);"><div class="tag">笔记</div></a>
-                {% endif %}
-                </div>
-
-                {{ post.excerpt | markdownify }}
-            </div>
-            {% endif %}
-        {% endif %}
-    {% endfor %}
-
-    <div class="pagination">
-    {% if paginator.page != 1 %}
-        <a href="{{ site.url }}" class="previous" onclick="_gaq.push(['_trackEvent', 'ToPrevPage', '1thPage', window.location.pathname]);">首页</a>
-    {% endif %}
-    {% if paginator.previous_page %}
-        {% if paginator.previous_page == 1 %}
-            <a href="{{ site.url }}" class="previous" onclick="_gaq.push(['_trackEvent', 'ToPrevPage', '1thPage', window.location.pathname]);">上一页</a>
-        {% else %}
-            <a href="{{ site.url }}/page{{ paginator.previous_page }}" class="previous" class="previous" onclick="_gaq.push(['_trackEvent', 'ToPrevPage', '{{ paginator.previous_page }}thPage', window.location.pathname]);">上一页</a>
-        {% endif %}
-    {% endif %}
-    <span class="page_number">{{ paginator.page }} / {{ paginator.total_pages }}</span>
-    {% if paginator.next_page %}
-        <a href="{{ site.url }}/page{{ paginator.next_page }}" class="next" onclick="_gaq.push(['_trackEvent', 'ToNextPage', '{{ paginator.next_page }}thPage', window.location.pathname]);">下一页</a>
-    {% endif %}
-    {% if paginator.next_page %}
-        <a href="{{ site.url }}/page{{ paginator.total_pages }}" class="previous" onclick="_gaq.push(['_trackEvent', 'ToPrevPage', '1thPage', window.location.pathname]);">末页</a>
-    {% endif %}
-    <a href="{{ site.url }}/all/" class="allPostLink" onclick="_gaq.push(['_trackEvent', 'ToAllPost', 'InRecentNav', window.location.pathname]);">所有博文</a>
-    </div>
-</section>
 
     {% include license.html %}
 
