@@ -57,9 +57,9 @@ function processPageView(rows) {
     });
 }
 
-LazyLoad.css('../css/font.css');
+LazyLoad.css('{{site.url}}/css/font.css');
 
-LazyLoad.js('/jquery-1.11.1.min.js', function () {
+LazyLoad.js('{{site.url}}/js/jquery-1.11.1.min.js', function () {
     hideRecentSectionWhenNoPost();
 
     $('h1').each(function() {
@@ -74,12 +74,12 @@ LazyLoad.js('/jquery-1.11.1.min.js', function () {
     });
 
     if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) === false) {
-        LazyLoad.js('/jquery.timeago.min.js', function () {
+        LazyLoad.js('{{site.url}}/js/jquery.timeago.min.js', function () {
             $('.timeago').timeago().show();
         });
     }
 
-    LazyLoad.js('/unviel.min.js', function () {
+    LazyLoad.js('{{site.url}}/js/unviel.min.js', function () {
         $("img").unveil();
 
         // google pageview
@@ -124,8 +124,8 @@ LazyLoad.js('/jquery-1.11.1.min.js', function () {
 
 // emoji
 setTimeout(function() {
-    LazyLoad.css('../css/emojify.min.css', function () {
-        LazyLoad.js('/emojify.min.js', function () {
+    LazyLoad.css('{{site.url}}/css/emojify.min.css', function () {
+        LazyLoad.js('{{site.url}}/js/emojify.min.js', function () {
             emojify.setConfig({
                 emoticons_enabled: true,
                 people_enabled: true,
