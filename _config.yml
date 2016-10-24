@@ -1,11 +1,11 @@
-name: "Blog of Wenli Zhang"
-description: "Web Front-End Blog by Wenli Zhang"
+name: "Blog of TyrantaX"
+description: "Web Engineering Blog by TyrantaX"
 
-url: "http://zhangwenli.com/blog"
-loadingImg: "http://zhangwenli.com/blog/img/loading.gif"
-filePath: "http://zhangwenli.com/blog/img/"
+url: "http://www.freeclan.net/tyrantax"
+loadingImg: "http://www.freeclan.net/tyrantax/img/loading.gif"
+filePath: "http://www.freeclan.net/tyrantax/img/"
 
-timezone: Asia/Shanghai
+timezone: Asia/Beijing
 
 paginate: 16
 paginate_path: "/page:num"
@@ -19,3 +19,4 @@ permalink: pretty
 
 gems:
 - jekyll-paginate
+exclude: ["node_modules"]
