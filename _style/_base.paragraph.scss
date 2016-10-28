@@ -8,7 +8,9 @@ p {
   font-weight:$ft-wt-bold;
   line-height: 1.8em;
   margin: 1em 0;
-  color: $clr-def-darker;
+
+  color: rgba(10,60,150, 0.7);
+  text-shadow: 1px 4px 6px #def, 0 0 0 #000, 1px 4px 6px #def;
 }
 
 .cn p {
