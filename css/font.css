@@ -27,13 +27,13 @@
   src: local('Lato Black Italic'), local('Lato-BlackItalic'), url('http://www.freeclan.net/tyrantax/font/lato900i.woff') format('woff');
 }
 @font-face {
-  font-family: 'chaka';
+  font-family: chaka;
   src:url('../font/chaka.eot');
   src: url('../font/chaka.eot?#iefix') format('embedded-opentype'),
   url('../font/chaka.woff2') format('woff2'),
   url('../font/chaka.woff') format('woff'),
   url('../font/chaka.ttf') format('truetype'),
   url('../font/chaka.svg#chaka') format('svg');
-  font-style: normal;
   font-weight: 900;
+  font-style: normal;
 }
