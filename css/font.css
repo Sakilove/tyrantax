@@ -32,5 +32,5 @@
   src: local('chaka Regular'),
   local('chaka'),
   url('http://www.freeclan.net/tyrantax/font/chakashoujin.woff') format('woff'),
-  url('http://www.freeclan.net/tyrantax/font/chakashoujin.ttf') format('ttf');
+  url('http://www.freeclan.net/tyrantax/font/chakashoujin.ttf') format('truetype');
 }
