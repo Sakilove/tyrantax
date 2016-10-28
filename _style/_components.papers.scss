@@ -3,7 +3,8 @@
 \*------------------------------------*/
 
 .page {
-  background-color: $clr-page-back;
+  /*background-color: $clr-page-back;*/
+  background: url(../img/paper-material.jpg);
   margin-top: 5em;
   box-shadow: 0px 0px 10px 2px $clr-def;
   min-height: 200px;
