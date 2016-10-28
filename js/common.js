@@ -57,9 +57,9 @@ function processPageView(rows) {
     });
 }
 
-LazyLoad.css('/css/font.css');
+LazyLoad.css('/tyrantax/css/font.css');
 
-LazyLoad.js('{{ site.url }}/js/jquery-1.11.1.min.js', function () {
+LazyLoad.js('site.url/js/jquery-1.11.1.min.js', function () {
     hideRecentSectionWhenNoPost();
 
     $('h1').each(function() {
