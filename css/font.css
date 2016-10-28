@@ -28,9 +28,12 @@
 }
 @font-face {
   font-family: 'chaka';
+  src: url('../font/chaka.woff') format('woff'),
+  url('../font/chaka.ttf') format('truetype'),
+  url('../font/chaka.svg#chaka') format('svg'),
+  url('../font/chaka.eot');
+  url('../font/chaka.woff2') format('woff2'),
+  url('../font/chaka.eot?#iefix') format('embedded-opentype');
   font-style: normal;
   font-weight: 900;
-  src:
-  url('http://www.freeclan.net/tyrantax/font/chakashoujin.woff') format('woff'),
-  url('http://www.freeclan.net/tyrantax/font/chakashoujin.ttf') format('truetype');
 }
