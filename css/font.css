@@ -25,3 +25,9 @@
   font-weight: 900;
   src: local('Lato Black Italic'), local('Lato-BlackItalic'), url('http://www.freeclan.net/tyrantax/font/lato900i.woff') format('woff');
 }
+@font-face {
+  font-family: 'ChaKaShouJin';
+  font-style: normal;
+  font-weight: 400;
+  src: url('http://www.freeclan.net/tyrantax/font/chakashoujin.ttf') format('ttf');
+}
