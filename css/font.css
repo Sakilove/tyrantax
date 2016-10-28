@@ -30,8 +30,7 @@
   font-family: 'chaka';
   font-style: normal;
   font-weight: 900;
-  src: local('chaka Regular'),
-  local('chaka'),
+  src:
   url('http://www.freeclan.net/tyrantax/font/chakashoujin.woff') format('woff'),
   url('http://www.freeclan.net/tyrantax/font/chakashoujin.ttf') format('truetype');
 }
