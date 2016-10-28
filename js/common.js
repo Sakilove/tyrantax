@@ -57,7 +57,7 @@ function processPageView(rows) {
     });
 }
 
-LazyLoad.css('{{ site.url }}/css/font.css');
+LazyLoad.css('../css/font.css');
 
 LazyLoad.js('{{ site.url }}/js/jquery-1.11.1.min.js', function () {
     hideRecentSectionWhenNoPost();
