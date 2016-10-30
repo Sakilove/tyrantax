@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b8b7b31-a463-4916-911c-ac1a8b7cc6ba" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/minguo.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/minguo.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/FZMing.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/FZMing.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/FZMing.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/FZMing.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/FZMing.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font/minguo.ttf" afterPath="$PROJECT_DIR$/font/minguo.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font/minguo.woff" afterPath="$PROJECT_DIR$/font/minguo.woff" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_style/_settings.fonts.scss" afterPath="$PROJECT_DIR$/_style/_settings.fonts.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/default.min.css" afterPath="$PROJECT_DIR$/css/default.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/font.css" afterPath="$PROJECT_DIR$/css/font.css" />
     </list>
     <ignored path="blog-gh-pages.iws" />
@@ -31,8 +35,8 @@
       <file leaf-file-name="_settings.fonts.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_style/_settings.fonts.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -41,8 +45,8 @@
       <file leaf-file-name="font.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/font.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
-              <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+            <state relative-caret-position="602">
+              <caret line="89" column="22" selection-start-line="89" selection-start-column="22" selection-end-line="89" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -432,7 +436,7 @@
       <workItem from="1477293580374" duration="3186000" />
       <workItem from="1477306145680" duration="23574000" />
       <workItem from="1477679496945" duration="14048000" />
-      <workItem from="1477841198926" duration="4849000" />
+      <workItem from="1477841198926" duration="6628000" />
     </task>
     <task id="LOCAL-00001" summary="setup">
       <created>1477313058832</created>
@@ -763,11 +767,18 @@
       <option name="project" value="LOCAL" />
       <updated>1477847282191</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="setup">
+      <created>1477852274300</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1477852274300</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58500000" />
+    <option name="totallyTimeSpent" value="60279000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1932" height="1038" extended-state="0" />
@@ -1148,16 +1159,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/font.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+        <state relative-caret-position="602">
+          <caret line="89" column="22" selection-start-line="89" selection-start-column="22" selection-end-line="89" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_style/_settings.fonts.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
           <folding />
         </state>
       </provider>
