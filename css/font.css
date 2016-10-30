@@ -37,3 +37,14 @@
   font-weight: 900;
   font-style: normal;
 }
+@font-face {
+  font-family: 'LHANDW';
+  src:url('../font/LHANDW.eot');
+  src: url('../font/LHANDW.eot?#iefix') format('embedded-opentype'),
+  url('../font/LHANDW.woff2') format('woff2'),
+  url('../font/LHANDW.woff') format('woff'),
+  url('../font/LHANDW.ttf') format('truetype'),
+  url('../font/LHANDW.svg#chaka') format('svg');
+  font-weight: 900;
+  font-style: normal;
+}
