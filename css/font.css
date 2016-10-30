@@ -34,7 +34,7 @@
   url('../font/chaka.woff') format('woff'),
   url('../font/chaka.ttf') format('truetype'),
   url('../font/chaka.svg#chaka') format('svg');
-  font-weight: 900;
+  font-weight: 400;
   font-style: normal;
 }
 @font-face {
@@ -45,6 +45,6 @@
   url('../font/LHANDW.woff') format('woff'),
   url('../font/LHANDW.ttf') format('truetype'),
   url('../font/LHANDW.svg#chaka') format('svg');
-  font-weight: 900;
+  font-weight: 400;
   font-style: normal;
 }
