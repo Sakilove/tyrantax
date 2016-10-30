@@ -72,10 +72,12 @@
 }
 @font-face {
   font-family: 'minguo';
-
-  src:
+  src:url('../font/minguo.eot');
+  src: url('../font/minguo.eot?#iefix') format('embedded-opentype'),
+  url('../font/minguo.woff2') format('woff2'),
   url('../font/minguo.woff') format('woff'),
-  url('../font/minguo.ttf') format('truetype');
+  url('../font/minguo.ttf') format('truetype'),
+  url('../font/minguo.svg#chaka') format('svg');
   font-weight: normal;
   font-style: normal;
 }
