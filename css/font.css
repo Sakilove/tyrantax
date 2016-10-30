@@ -48,3 +48,25 @@
   font-weight: 400;
   font-style: normal;
 }
+@font-face {
+  font-family: 'gnyrwn971';
+  src:url('../font/gnyrwn971.eot');
+  src: url('../font/gnyrwn971.eot?#iefix') format('embedded-opentype'),
+  url('../font/gnyrwn971.woff2') format('woff2'),
+  url('../font/gnyrwn971.woff') format('woff'),
+  url('../font/gnyrwn971.ttf') format('truetype'),
+  url('../font/gnyrwn971.svg#chaka') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Stay_Writer';
+  src:url('../font/Stay_Writer.eot');
+  src: url('../font/Stay_Writer.eot?#iefix') format('embedded-opentype'),
+  url('../font/Stay_Writer.woff2') format('woff2'),
+  url('../font/Stay_Writer.woff') format('woff'),
+  url('../font/Stay_Writer.ttf') format('truetype'),
+  url('../font/Stay_Writer.svg#chaka') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
