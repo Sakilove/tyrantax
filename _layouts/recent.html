@@ -27,7 +27,7 @@
     {% for post in sorted_post reversed %}
         {% if post.hide != true %}
 
-            <div class="post-block">
+            <div class="post-block cn">
                 {% assign time = post.time %}
                 <div class="timeago" title="{{ time | replace: '.', '-' | replace: ' ', 'T' }}+08:00">{{ time }}</div>
                 
