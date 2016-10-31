@@ -90,7 +90,14 @@ h6 {
     height: 1.8rem;
   }
 
-
+.button{
+  font-family: "Microsoft Yahei", sans-serif;
+}
+.button > a > span{
+  background-color: $clr-dark;
+  color: $clr-contrast;
+  border-radius: 50%;
+}
 
 @media screen and (max-device-width: 600px) {
   .subtitle, .page-post h2 {

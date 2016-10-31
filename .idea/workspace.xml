@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6b8b7b31-a463-4916-911c-ac1a8b7cc6ba" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/aboutMe.html" afterPath="$PROJECT_DIR$/_includes/aboutMe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/recent.html" afterPath="$PROJECT_DIR$/_layouts/recent.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_style/_base.head.scss" afterPath="$PROJECT_DIR$/_style/_base.head.scss" />
     </list>
     <ignored path="blog-gh-pages.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,30 +24,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="_device.mobile.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_style/_device.mobile.scss">
+      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-660">
+            <state relative-caret-position="-2965">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <file leaf-file-name="_base.head.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_style/_base.head.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+            <state relative-caret-position="480">
+              <caret line="96" column="29" selection-start-line="96" selection-start-column="29" selection-end-line="96" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <file leaf-file-name="_settings.colors.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_style/_settings.colors.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2965">
+            <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -115,10 +114,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="aboutMe.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="aboutMe.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/aboutMe.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
+            <state relative-caret-position="270">
               <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
               <folding />
             </state>
@@ -161,6 +160,7 @@
         <option value="$PROJECT_DIR$/_includes/comment.html" />
         <option value="$PROJECT_DIR$/_layouts/recent.html" />
         <option value="$PROJECT_DIR$/_includes/aboutMe.html" />
+        <option value="$PROJECT_DIR$/_style/_base.head.scss" />
       </list>
     </option>
   </component>
@@ -411,14 +411,7 @@
       <workItem from="1477306145680" duration="23574000" />
       <workItem from="1477679496945" duration="14048000" />
       <workItem from="1477841198926" duration="6628000" />
-      <workItem from="1477863369556" duration="14724000" />
-    </task>
-    <task id="LOCAL-00006" summary="setup">
-      <created>1477316296893</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1477316296893</updated>
+      <workItem from="1477863369556" duration="15792000" />
     </task>
     <task id="LOCAL-00007" summary="setup">
       <created>1477330163709</created>
@@ -756,11 +749,18 @@
       <option name="project" value="LOCAL" />
       <updated>1477915152971</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="setup">
+      <created>1477923734399</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1477923734399</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75003000" />
+    <option name="totallyTimeSpent" value="76071000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1932" height="1038" extended-state="0" />
@@ -806,14 +806,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2016-10-24-test">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-10-24-tests.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1014,14 +1006,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_style/_base.head.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2317">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_style/_base.links.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1477">
@@ -1208,8 +1192,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/aboutMe.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
+        <state relative-caret-position="270">
           <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_style/_settings.colors.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_style/_base.head.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="96" column="29" selection-start-line="96" selection-start-column="29" selection-end-line="96" selection-end-column="29" />
           <folding />
         </state>
       </provider>
