@@ -96,13 +96,13 @@ h6 {
 }
 
 .button{
-  a{
-    span{
+
+  span{
       background-color: $clr-dark;
       color: $clr-contrast;
       border-radius: 50%;
     }
-  }
+
 }
 
 @media screen and (max-device-width: 600px) {
