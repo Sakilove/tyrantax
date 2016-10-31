@@ -98,9 +98,11 @@ h6 {
 .button{
 
   span{
-      background-color: $clr-dark;
-      color: $clr-contrast;
-      border-radius: 50%;
+    width: 21px;
+    height: 21px;
+    background-color: rgba(255, 136, 136, 0.96);
+    color: rgba(255, 255, 255, 0.96);
+    border-radius: 50%;
     }
 
 }
