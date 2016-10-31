@@ -92,11 +92,17 @@ h6 {
 
 .button{
   font-family: "Microsoft Yahei", sans-serif;
+
 }
-.button > a > span{
-  background-color: $clr-dark;
-  color: $clr-contrast;
-  border-radius: 50%;
+
+.button{
+  a{
+    span{
+      background-color: $clr-dark;
+      color: $clr-contrast;
+      border-radius: 50%;
+    }
+  }
 }
 
 @media screen and (max-device-width: 600px) {
