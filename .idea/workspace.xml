@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b8b7b31-a463-4916-911c-ac1a8b7cc6ba" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/paper-material.jpg" afterPath="$PROJECT_DIR$/img/paper-material.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_style/_base.head.scss" afterPath="$PROJECT_DIR$/_style/_base.head.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/default.min.css" afterPath="$PROJECT_DIR$/css/default.min.css" />
@@ -38,8 +39,8 @@
       <file leaf-file-name="_base.head.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_style/_base.head.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="103" column="37" selection-start-line="103" selection-start-column="37" selection-end-line="103" selection-end-column="37" />
+            <state relative-caret-position="413">
+              <caret line="104" column="23" selection-start-line="104" selection-start-column="23" selection-end-line="104" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -70,16 +71,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-180">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_base.quotes.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_style/_base.quotes.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -282,6 +273,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tyrantax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tyrantax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -348,6 +353,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\Web\freeclan\blog\tyrantax\tyrantax\img" />
       <recent name="D:\Project\Web\freeclan\blog\tyrantax\tyrantax\font" />
       <recent name="D:\Project\Web\freeclan\blog\blog-gh-pages\font" />
       <recent name="D:\Project\Web\freeclan\blog\blog-gh-pages\img" />
@@ -426,14 +432,7 @@
       <workItem from="1477306145680" duration="23574000" />
       <workItem from="1477679496945" duration="14048000" />
       <workItem from="1477841198926" duration="6628000" />
-      <workItem from="1477863369556" duration="19119000" />
-    </task>
-    <task id="LOCAL-00011" summary="setup">
-      <created>1477597958365</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1477597958365</updated>
+      <workItem from="1477863369556" duration="21057000" />
     </task>
     <task id="LOCAL-00012" summary="setup">
       <created>1477598940096</created>
@@ -771,11 +770,18 @@
       <option name="project" value="LOCAL" />
       <updated>1477927428139</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="setup">
+      <created>1477934295523</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1477934295523</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79398000" />
+    <option name="totallyTimeSpent" value="81336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1932" height="1038" extended-state="0" />
@@ -821,14 +827,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2016-10-04-drinks-and-books.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-08-24-using-echarts-with-typescript.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1221,10 +1219,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/paper-material.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_style/_base.head.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="103" column="37" selection-start-line="103" selection-start-column="37" selection-end-line="103" selection-end-column="37" />
+        <state relative-caret-position="413">
+          <caret line="104" column="23" selection-start-line="104" selection-start-column="23" selection-end-line="104" selection-end-column="23" />
           <folding />
         </state>
       </provider>
