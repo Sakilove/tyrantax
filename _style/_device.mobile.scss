@@ -27,7 +27,7 @@ $timeago-width:80px * $timeago-ratio;
     float: left;
     width: $timeago-width;
     height: $timeago-width;
-    margin-left: -80px - $timeago-width;
+    margin-left: -80px - $timeago-width/2;
     margin-top: 16px;
 
     background-color: transparent;
@@ -35,7 +35,7 @@ $timeago-width:80px * $timeago-ratio;
     //border-radius: 50%;
     vertical-align: middle;
     font-size: 16px;
-    color: rgba(116, 55, 55, 0.74);
+    color: rgba(116, 55, 55, 0);
     font-family: "Microsoft YaHei";
     font-weight:900;
     -webkit-transition: color 0.618s ease;
