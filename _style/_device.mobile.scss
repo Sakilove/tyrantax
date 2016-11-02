@@ -35,9 +35,18 @@ $timeago-width:80px * $timeago-ratio;
     //border-radius: 50%;
     vertical-align: middle;
     font-size: 16px;
-    color: rgba(116, 55, 55, 0);
-    font-family: "Microsoft YaHei";
+    //color: rgba(116, 55, 55, 0);
+    //font-family: "Microsoft YaHei";
     font-weight:900;
+
+
+    color: rgba(255,99,99,0.79);
+    -o-text-overflow: clip;
+    text-overflow: clip;
+    white-space: pre;
+    text-shadow: 1px 1px 0 rgba(140,140,140,0.6) , -1px -1px 1px rgba(0,0,0,0.67) ;
+
+
     -webkit-transition: color 0.618s ease;
     -moz-transition: color 0.618s ease;
     -o-transition: color 0.618s ease;
@@ -58,7 +67,7 @@ $timeago-width:80px * $timeago-ratio;
       font-size: 14px;
 
 
-      text-shadow: rgba(255, 255, 255, 0.31) 0px 3px 3px;
+      //text-shadow: rgba(255, 255, 255, 0.31) 0px 3px 3px;
       
       .timeago-figure {
 
