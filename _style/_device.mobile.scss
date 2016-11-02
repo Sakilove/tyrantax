@@ -19,6 +19,8 @@
 // desktop timeago
 @media screen and (min-width: 600px) {
   .timeago {
+    background: url(../img/timeago.png);
+    background-size: cover;
     text-align: center;
     color: $clr-def-lighter;
     float: left;
@@ -28,7 +30,7 @@
     height: 80px;
     background-color: $clr-def;
     box-sizing: border-box;
-    border-radius: 50%;
+    //border-radius: 50%;
     vertical-align: middle;
     font-size: 16px;
     @include transition-duration(1s);
@@ -44,6 +46,10 @@
       margin-top: 8px;
       margin-bottom: -4px;
       font-size: 14px;
+      font-family: "Microsoft JhengHei";
+      font-weight:900;
+      color: rgba(241, 123, 123, 0.23);
+      text-shadow: rgba(255, 255, 255, 0.31) 0px 3px 3px;
       
       .timeago-figure {
         font-size: 35px;
