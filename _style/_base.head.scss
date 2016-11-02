@@ -19,7 +19,7 @@ h1 {
   position: relative;
   overflow: visible;
   
-  &::before {
+  &::before(1) {
     background-image: url('../img/scissors.png');
     background-repeat: no-repeat;
     display: block;
