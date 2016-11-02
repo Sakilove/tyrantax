@@ -27,8 +27,8 @@
       <file leaf-file-name="_base.head.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_style/_base.head.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-247">
-              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            <state relative-caret-position="1013">
+              <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -38,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/css/default.min.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-2866">
-              <caret line="0" column="7302" selection-start-line="0" selection-start-column="7295" selection-end-line="0" selection-end-column="7301" />
+              <caret line="0" column="7302" selection-start-line="0" selection-start-column="7302" selection-end-line="0" selection-end-column="7302" />
               <folding />
             </state>
           </provider>
@@ -452,14 +452,7 @@
       <workItem from="1477679496945" duration="14048000" />
       <workItem from="1477841198926" duration="6628000" />
       <workItem from="1477863369556" duration="25401000" />
-      <workItem from="1478080254702" duration="15871000" />
-    </task>
-    <task id="LOCAL-00051" summary="setup">
-      <created>1477898651512</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1477898651512</updated>
+      <workItem from="1478080254702" duration="16098000" />
     </task>
     <task id="LOCAL-00052" summary="setup">
       <created>1477898917316</created>
@@ -797,11 +790,18 @@
       <option name="project" value="LOCAL" />
       <updated>1478100678920</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="setup">
+      <created>1478100920585</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1478100920585</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101551000" />
+    <option name="totallyTimeSpent" value="101778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1932" height="1038" extended-state="0" />
@@ -1176,15 +1176,15 @@
     <entry file="file://$PROJECT_DIR$/css/default.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2866">
-          <caret line="0" column="7302" selection-start-line="0" selection-start-column="7295" selection-end-line="0" selection-end-column="7301" />
+          <caret line="0" column="7302" selection-start-line="0" selection-start-column="7302" selection-end-line="0" selection-end-column="7302" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_style/_base.head.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-247">
-          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        <state relative-caret-position="1013">
+          <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
           <folding />
         </state>
       </provider>
