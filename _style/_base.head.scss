@@ -29,25 +29,27 @@ h1 {
     height: 32px;
     width: 32px;
   }*/
-  &:after {
+  &:before {
     background-image: url('../img/cut-left.png');
     background-repeat: no-repeat;
     background-size: cover;
     content: attr(data-title);
     display: block;
     float: left;
-    top: -55px;
+    margin-top: -55px;
+    left:-36px;
     height: 110px;
     width: 88px;
   }
-  &:before {
+  &:after {
     background-image: url('../img/cut-right.png');
     background-repeat: no-repeat;
     background-size: cover;
     content: attr(data-title);
     display: block;
     float: right;
-    top: -55px;
+    right: -36px;
+    margin-top: -55px;
     height: 110px;
     width: 88px;
   }
