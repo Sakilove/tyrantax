@@ -24,10 +24,11 @@ $timeago-ratio:1.6;
     text-align: center;
     //color: $clr-def-lighter;
     float: left;
-    margin-left: -120px*$timeago-ratio;
-    margin-top: 16px*$timeago-ratio;
     width: 80px*$timeago-ratio;
     height: 80px*$timeago-ratio;
+    margin-left: -80px - width;
+    margin-top: 16px;
+
     background-color: transparent;
     //box-sizing: border-box;
     //border-radius: 50%;
