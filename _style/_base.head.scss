@@ -19,7 +19,7 @@ h1 {
   position: relative;
   overflow: visible;
   
-  &::before(1) {
+  /*&::before {
     background-image: url('../img/scissors.png');
     background-repeat: no-repeat;
     display: block;
@@ -28,18 +28,19 @@ h1 {
     top: -16px;
     height: 32px;
     width: 32px;
-  }
-  &::before(2) {
+  }*/
+  &::before {
     background-image: url('../img/cut-left.png');
     background-repeat: no-repeat;
     background-size: cover;
+    content: attr(data-title);
     display: block;
     float: left;
     top: -55px;
     height: 110px;
     width: 88px;
   }
-  &::before(3) {
+  &::after {
     background-image: url('../img/cut-right.png');
     background-repeat: no-repeat;
     background-size: cover;
