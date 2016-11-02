@@ -27,8 +27,8 @@
       <file leaf-file-name="_base.head.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_style/_base.head.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="623">
-              <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+            <state relative-caret-position="533">
+              <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -37,8 +37,8 @@
       <file leaf-file-name="recent.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/recent.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+            <state relative-caret-position="60">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -47,7 +47,7 @@
       <file leaf-file-name="default.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/default.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2956">
+            <state relative-caret-position="254">
               <caret line="0" column="7493" selection-start-line="0" selection-start-column="7493" selection-end-line="0" selection-end-column="7493" />
               <folding />
             </state>
@@ -64,7 +64,7 @@
       <file leaf-file-name="_base.page.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_style/_base.page.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-577">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -426,14 +426,7 @@
       <workItem from="1477679496945" duration="14048000" />
       <workItem from="1477841198926" duration="6628000" />
       <workItem from="1477863369556" duration="25401000" />
-      <workItem from="1478080254702" duration="19069000" />
-    </task>
-    <task id="LOCAL-00064" summary="setup">
-      <created>1478084205164</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1478084205164</updated>
+      <workItem from="1478080254702" duration="19712000" />
     </task>
     <task id="LOCAL-00065" summary="setup">
       <created>1478084332623</created>
@@ -771,11 +764,18 @@
       <option name="project" value="LOCAL" />
       <updated>1478103915159</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="setup">
+      <created>1478104125171</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1478104125171</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104749000" />
+    <option name="totallyTimeSpent" value="105392000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1932" height="1038" extended-state="0" />
@@ -1121,39 +1121,39 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_style/_base.page.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/cut-left.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/default.min.css">
+    <entry file="file://$PROJECT_DIR$/_style/_base.page.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2956">
-          <caret line="0" column="7493" selection-start-line="0" selection-start-column="7493" selection-end-line="0" selection-end-column="7493" />
+        <state relative-caret-position="-577">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_style/_base.head.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="623">
-          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+        <state relative-caret-position="533">
+          <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/default.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="0" column="7493" selection-start-line="0" selection-start-column="7493" selection-end-line="0" selection-end-column="7493" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/recent.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+        <state relative-caret-position="60">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
           <folding />
         </state>
       </provider>
