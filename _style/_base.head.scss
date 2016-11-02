@@ -29,6 +29,26 @@ h1 {
     height: 32px;
     width: 32px;
   }
+  &:before(2) {
+    background-image: url('../img/cut-left.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    float: left;
+    top: -55px;
+    height: 110px;
+    width: 88px;
+  }
+  &:before(3) {
+    background-image: url('../img/cut-right.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    float: right;
+    top: -55px;
+    height: 110px;
+    width: 88px;
+  }
 
   .h1-link {
     display: none;
