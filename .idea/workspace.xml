@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6b8b7b31-a463-4916-911c-ac1a8b7cc6ba" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_style/_device.mobile.scss" afterPath="$PROJECT_DIR$/_style/_device.mobile.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/default.min.css" afterPath="$PROJECT_DIR$/css/default.min.css" />
     </list>
     <ignored path="blog-gh-pages.iws" />
@@ -27,8 +28,18 @@
       <file leaf-file-name="_device.mobile.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_style/_device.mobile.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+            <state relative-caret-position="90">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/default.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="20088" selection-start-line="0" selection-start-column="20081" selection-end-line="0" selection-end-column="20088" />
               <folding />
             </state>
           </provider>
@@ -349,14 +360,7 @@
       <workItem from="1477679496945" duration="14048000" />
       <workItem from="1477841198926" duration="6628000" />
       <workItem from="1477863369556" duration="25401000" />
-      <workItem from="1478080254702" duration="6903000" />
-    </task>
-    <task id="LOCAL-00028" summary="setup">
-      <created>1477687939543</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1477687939543</updated>
+      <workItem from="1478080254702" duration="7072000" />
     </task>
     <task id="LOCAL-00029" summary="setup">
       <created>1477688705327</created>
@@ -694,11 +698,18 @@
       <option name="project" value="LOCAL" />
       <updated>1478090624455</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="setup">
+      <created>1478090809725</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1478090809725</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92583000" />
+    <option name="totallyTimeSpent" value="92752000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1932" height="1038" extended-state="0" />
@@ -825,14 +836,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2965">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/default.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8099" selection-start-line="0" selection-start-column="8093" selection-end-line="0" selection-end-column="8099" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1056,10 +1059,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/default.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="20088" selection-start-line="0" selection-start-column="20081" selection-end-line="0" selection-end-column="20088" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_style/_device.mobile.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        <state relative-caret-position="90">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
           <folding />
         </state>
       </provider>
