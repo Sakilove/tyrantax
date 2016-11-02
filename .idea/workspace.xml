@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b8b7b31-a463-4916-911c-ac1a8b7cc6ba" name="Default" comment="">
+    <list default="true" id="6b8b7b31-a463-4916-911c-ac1a8b7cc6ba" name="Default" comment="setup">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_style/_device.mobile.scss" afterPath="$PROJECT_DIR$/_style/_device.mobile.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/default.min.css" afterPath="$PROJECT_DIR$/css/default.min.css" />
     </list>
     <ignored path="blog-gh-pages.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +27,8 @@
       <file leaf-file-name="_device.mobile.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_style/_device.mobile.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+            <state relative-caret-position="390">
+              <caret line="63" column="20" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -332,14 +331,7 @@
       <workItem from="1477679496945" duration="14048000" />
       <workItem from="1477841198926" duration="6628000" />
       <workItem from="1477863369556" duration="25401000" />
-      <workItem from="1478080254702" duration="10683000" />
-    </task>
-    <task id="LOCAL-00041" summary="setup">
-      <created>1477844977254</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1477844977254</updated>
+      <workItem from="1478080254702" duration="10766000" />
     </task>
     <task id="LOCAL-00042" summary="setup">
       <created>1477846560627</created>
@@ -677,11 +669,18 @@
       <option name="project" value="LOCAL" />
       <updated>1478093920177</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="setup">
+      <created>1478094981637</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1478094981637</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96363000" />
+    <option name="totallyTimeSpent" value="96446000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1932" height="1038" extended-state="0" />
@@ -1041,8 +1040,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_style/_device.mobile.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+        <state relative-caret-position="390">
+          <caret line="63" column="20" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
           <folding />
         </state>
       </provider>
