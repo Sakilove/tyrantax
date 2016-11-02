@@ -2,6 +2,153 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b8b7b31-a463-4916-911c-ac1a8b7cc6ba" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/art/work1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/art/work2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/art/work3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/art/work4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2013-10-19-game-development-with-three-js-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2013-10-19-game-development-with-three-js-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2013-10-19-how-i-made-this-site-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2013-10-19-how-i-made-this-site-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2013-10-19-how-i-made-this-site-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2013-10-19-how-i-made-this-site-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2013-10-19-how-i-made-this-site-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2013-10-19-how-i-made-this-site-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2013-10-19-how-i-made-this-site-7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2013-12-20-pacht-ebook-bonanza-is-back.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-02-09-how-i-made-jcorner-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-04-27-02-the-whole-picture-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-04-27-02-the-whole-picture-02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-04-27-02-the-whole-picture-03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-05-02-dive-into-html-01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-05-02-dive-into-html-02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-05-02-dive-into-html-03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-05-02-dive-into-html-04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-05-02-dive-into-html-05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-05-02-dive-into-html-06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-05-02-dive-into-html-07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-05-02-dive-into-html-08.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-05-02-dive-into-html-09.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-05-18-dive-into-css-01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-05-18-dive-into-css-02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-05-18-dive-into-css-03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-05-18-dive-into-css-04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-05-18-dive-into-css-05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-05-18-dive-into-css-06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-05-18-dive-into-css-07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-05-18-dive-into-css-08.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-05-18-dive-into-css-09.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-05-18-dive-into-css-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-05-18-dive-into-css-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-05-18-dive-into-css-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-05-18-dive-into-css-13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-06-25-reading-report-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-06-25-reading-report-02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-03-make-your-own-social-sharing-bar-with-jekyll-01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-05-page-view-from-google-analytics-for-your-blog-01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-09-10-san-serif-google-fonts-for-your-headline-01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-09-10-san-serif-google-fonts-for-your-headline-02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-09-10-san-serif-google-fonts-for-your-headline-03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-09-10-san-serif-google-fonts-for-your-headline-04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-09-10-san-serif-google-fonts-for-your-headline-05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-09-10-san-serif-google-fonts-for-your-headline-06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-09-10-san-serif-google-fonts-for-your-headline-07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-09-10-san-serif-google-fonts-for-your-headline-08.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-09-10-san-serif-google-fonts-for-your-headline-09.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-09-10-san-serif-google-fonts-for-your-headline-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-09-10-san-serif-google-fonts-for-your-headline-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-09-10-san-serif-google-fonts-for-your-headline-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-11-how-i-made-biangua-01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-11-how-i-made-biangua-02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-11-how-i-made-biangua-03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-15-new-color-scheme-for-my-blog-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-17-being-a-front-end-developer-all-these-years-01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-17-being-a-front-end-developer-all-these-years-02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-17-being-a-front-end-developer-all-these-years-03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-17-being-a-front-end-developer-all-these-years-05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-17-being-a-front-end-developer-all-these-years-06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-17-being-a-front-end-developer-all-these-years-07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-17-being-a-front-end-developer-all-these-years-08.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-17-being-a-front-end-developer-all-these-years-09.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-17-being-a-front-end-developer-all-these-years-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-17-being-a-front-end-developer-all-these-years-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-17-being-a-front-end-developer-all-these-years-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-17-being-a-front-end-developer-all-these-years-13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-08-17-being-a-front-end-developer-all-these-years-14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-11-05-960px-12-columns-grid-using-photoshop-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-11-05-960px-12-columns-grid-using-photoshop-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-11-05-960px-12-columns-grid-using-photoshop-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-11-05-960px-12-columns-grid-using-photoshop-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-11-05-960px-12-columns-grid-using-photoshop-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-11-05-960px-12-columns-grid-using-photoshop-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-11-05-960px-12-columns-grid-using-photoshop-7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-11-05-960px-12-columns-grid-using-photoshop-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-11-05-960px-12-columns-grid-using-photoshop-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-11-13-introduction-to-three-js-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-11-17-hack-shanghai-01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-11-17-hack-shanghai-02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-11-17-hack-shanghai-03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-11-17-hack-shanghai-04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-11-17-hack-shanghai-05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-11-17-hack-shanghai-06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-11-17-hack-shanghai-07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-11-17-hack-shanghai-08.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-11-17-hack-shanghai-09.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-11-17-hack-shanghai-10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2014-11-17-hack-shanghai-11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-01-01-hello-2015-01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-01-01-hello-2015-02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-01-01-hello-2015-03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-01-01-hello-2015-04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-01-01-hello-2015-05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-01-01-hello-2015-06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-01-01-hello-2015-07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-01-01-hello-2015-08.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-01-01-hello-2015-09.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-01-01-hello-2015-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-02-19-to-future.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-04-01-2015-front-end-engineer-interview-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-04-16-beautiful-lines-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-05-10-what-i-think-about-when-i-think-about-insomnia-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-06-01-reading-report-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-06-03-yeah-that-is-how-i-remember-a-poem-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-06-12-drawing-heatmap-with-html-canvas-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-06-12-drawing-heatmap-with-html-canvas-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-06-12-drawing-heatmap-with-html-canvas-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-06-12-drawing-heatmap-with-html-canvas-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-06-12-drawing-heatmap-with-html-canvas-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-06-20-read-from-shader-texture-with-threejs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-08-28-opengl-matrix-transformations-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-08-28-opengl-matrix-transformations-02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-08-28-opengl-matrix-transformations-03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-09-11-summer-summary-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2015-12-25-goodbye-2015-01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-02-02-choosing-a-book-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-02-02-choosing-a-book-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-03-29-my-last-graduation-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-03-29-my-last-graduation-02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-03-29-my-last-graduation-03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-03-29-my-last-graduation-04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-03-29-my-last-graduation-05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-03-29-my-last-graduation-06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-03-29-my-last-graduation-07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-03-29-my-last-graduation-08.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-04-19-installing-nodebb-on-mac-os-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-05-11-angularjs-pagination-with-bootstrap-01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-05-11-angularjs-pagination-with-bootstrap-02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-05-11-angularjs-pagination-with-bootstrap-03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-07-16-visiting-museum-of-contemporary-art-shanghai-00.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-07-16-visiting-museum-of-contemporary-art-shanghai-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-07-16-visiting-museum-of-contemporary-art-shanghai-02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-07-16-visiting-museum-of-contemporary-art-shanghai-03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-07-16-visiting-museum-of-contemporary-art-shanghai-04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-07-16-visiting-museum-of-contemporary-art-shanghai-05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-07-16-visiting-museum-of-contemporary-art-shanghai-06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-07-16-visiting-museum-of-contemporary-art-shanghai-07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-07-16-visiting-museum-of-contemporary-art-shanghai-08.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-07-16-visiting-museum-of-contemporary-art-shanghai-09.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-07-16-visiting-museum-of-contemporary-art-shanghai-10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post/2016-07-16-visiting-museum-of-contemporary-art-shanghai-11.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/timeago.png" afterPath="$PROJECT_DIR$/img/timeago.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -37,8 +184,8 @@
       <file leaf-file-name="_device.mobile.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_style/_device.mobile.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+            <state relative-caret-position="390">
+              <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -79,26 +226,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1170">
               <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_base.page.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_style/_base.page.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1140">
-              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2013-10-19-how-i-made-this-site.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2013-10-19-how-i-made-this-site.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -429,14 +556,7 @@
       <workItem from="1477679496945" duration="14048000" />
       <workItem from="1477841198926" duration="6628000" />
       <workItem from="1477863369556" duration="25401000" />
-      <workItem from="1478080254702" duration="4768000" />
-    </task>
-    <task id="LOCAL-00020" summary="setup">
-      <created>1477684432592</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1477684432592</updated>
+      <workItem from="1478080254702" duration="5217000" />
     </task>
     <task id="LOCAL-00021" summary="setup">
       <created>1477684654168</created>
@@ -774,18 +894,25 @@
       <option name="project" value="LOCAL" />
       <updated>1478086032295</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="setup">
+      <created>1478088638197</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1478088638197</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90448000" />
+    <option name="totallyTimeSpent" value="90897000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1932" height="1038" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29728317" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29728317" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22538294" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -824,20 +951,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2015-04-01-2015-front-end-engineer-interview.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-08-21-reviewing-the-end-of-eternity.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/titled.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1189,10 +1302,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/art/work1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/art/work4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_style/_device.mobile.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+        <state relative-caret-position="390">
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
           <folding />
         </state>
       </provider>
