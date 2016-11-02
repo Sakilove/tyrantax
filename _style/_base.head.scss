@@ -44,6 +44,7 @@ h1 {
     background-image: url('../img/cut-right.png');
     background-repeat: no-repeat;
     background-size: cover;
+    content: attr(data-title);
     display: block;
     float: right;
     top: -55px;
