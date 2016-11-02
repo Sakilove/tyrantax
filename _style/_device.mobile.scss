@@ -16,6 +16,7 @@
   }
 }
 $timeago-ratio:1.6;
+$timeago-width:80px * $timeago-ratio;
 // desktop timeago
 @media screen and (min-width: 600px) {
   .timeago {
@@ -24,9 +25,9 @@ $timeago-ratio:1.6;
     text-align: center;
     //color: $clr-def-lighter;
     float: left;
-    width: 80px*$timeago-ratio;
-    height: 80px*$timeago-ratio;
-    margin-left: -80px - width;
+    width: $timeago-width;
+    height: $timeago-width;
+    margin-left: -80px - $timeago-width;
     margin-top: 16px;
 
     background-color: transparent;
