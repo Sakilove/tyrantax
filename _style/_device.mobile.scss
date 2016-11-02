@@ -15,7 +15,7 @@
     border-right: 1px dashed $clr-primary;
   }
 }
-
+$timeago-ratio:1.618;
 // desktop timeago
 @media screen and (min-width: 600px) {
   .timeago {
@@ -24,10 +24,10 @@
     text-align: center;
     //color: $clr-def-lighter;
     float: left;
-    margin-left: -120px;
-    margin-top: 16px;
-    width: 100px;
-    height: 100px;
+    margin-left: -120*$timeago-ratio px;
+    margin-top: 16*$timeago-ratio px;
+    width: 80*$timeago-ratio px;
+    height: 80*$timeago-ratio px;
     background-color: transparent;
     //box-sizing: border-box;
     //border-radius: 50%;
