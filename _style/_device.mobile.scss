@@ -20,24 +20,24 @@
 @media screen and (min-width: 600px) {
   .timeago {
     background: url(../img/timeago.png);
-    background-size: cover;
+    background-size: contain;
     text-align: center;
-    color: $clr-def-lighter;
+    //color: $clr-def-lighter;
     float: left;
     margin-left: -120px;
     margin-top: 16px;
     width: 80px;
     height: 80px;
     background-color: transparent;
-    box-sizing: border-box;
+    //box-sizing: border-box;
     //border-radius: 50%;
     vertical-align: middle;
     font-size: 16px;
     color: rgba(116, 55, 55, 0.74);
-    -webkit-transition: color 500ms ease-out 1s;
-    -moz-transition: color 500ms ease-out 1s;
-    -o-transition: color 500ms ease-out 1s;
-    transition: color 500ms ease-out 1s;
+    -webkit-transition: color 0.618s ease;
+    -moz-transition: color 0.618s ease;
+    -o-transition: color 0.618s ease;
+    transition: color .0618s ease;
     //@include transition-duration(1s);
     display: none;
     cursor: default;
