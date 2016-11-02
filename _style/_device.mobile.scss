@@ -28,7 +28,7 @@ $timeago-width:80px * $timeago-ratio;
     width: $timeago-width;
     height: $timeago-width;
     margin-left: -80px - $timeago-width/2;
-    margin-top: 16px;
+    margin-top: 2px;
 
     background-color: transparent;
     //box-sizing: border-box;
@@ -61,7 +61,7 @@ $timeago-width:80px * $timeago-ratio;
     }
     
     .timeago-words {
-      margin-top: 20px;
+      margin-top: 26px;
       margin-bottom: -4px;
       font-size: 14px;
 
