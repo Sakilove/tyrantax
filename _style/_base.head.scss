@@ -35,9 +35,10 @@ h1 {
     width: 32px;
   }*/
   &:before {
-    background-image: url('../img/cut-left.png');
+    background-image: url('../img/spritesheet.png');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-position: -5px -5px;
+
     content: attr(data-title);
     display: block;
     float: left;
@@ -47,9 +48,9 @@ h1 {
     width: 88px;
   }
   &:after {
-    background-image: url('../img/cut-right.png');
+    background-image: url('../img/spritesheet.png');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-position: -103px -5px;
     content: attr(data-title);
     display: block;
     float: right;
