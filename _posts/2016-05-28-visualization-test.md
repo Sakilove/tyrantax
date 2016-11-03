@@ -6,7 +6,7 @@ layout: post
 tags:
 - 中文
 - 分享
-category:编程
+category: 编程
 excerpt: 本文为 SegmentFault DDay 厦门站分享内容。PPT 请于<a href="http://zhangwenli.com/ppt/2016/05/09/visualization-test/">这里</a>查看。
 ---
 

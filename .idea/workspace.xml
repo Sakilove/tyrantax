@@ -3,6 +3,41 @@
   <component name="ChangeListManager">
     <list default="true" id="6b8b7b31-a463-4916-911c-ac1a8b7cc6ba" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-06-20-read-from-shader-texture-with-threejs.md" afterPath="$PROJECT_DIR$/_posts/2015-06-20-read-from-shader-texture-with-threejs.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-06-25-polyvia.md" afterPath="$PROJECT_DIR$/_posts/2015-06-25-polyvia.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-06-29-because-of-my-aloneness.md" afterPath="$PROJECT_DIR$/_posts/2015-06-29-because-of-my-aloneness.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-07-03-intel-fellows.md" afterPath="$PROJECT_DIR$/_posts/2015-07-03-intel-fellows.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-07-28-javascript-function-arguments-assignment.md" afterPath="$PROJECT_DIR$/_posts/2015-07-28-javascript-function-arguments-assignment.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-07-31-fighting-my-girl.md" afterPath="$PROJECT_DIR$/_posts/2015-07-31-fighting-my-girl.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-08-28-opengl-matrix-transformations.md" afterPath="$PROJECT_DIR$/_posts/2015-08-28-opengl-matrix-transformations.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-09-11-summer-summary.md" afterPath="$PROJECT_DIR$/_posts/2015-09-11-summer-summary.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-09-20-reviewing-the-highly-sensitive-person.md" afterPath="$PROJECT_DIR$/_posts/2015-09-20-reviewing-the-highly-sensitive-person.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-12-13-listening-to-jiang-xun.md" afterPath="$PROJECT_DIR$/_posts/2015-12-13-listening-to-jiang-xun.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-12-19-render-jade-on-server-side.md" afterPath="$PROJECT_DIR$/_posts/2015-12-19-render-jade-on-server-side.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-12-21-bos-access-with-bce.md" afterPath="$PROJECT_DIR$/_posts/2015-12-21-bos-access-with-bce.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-12-25-goodbye-2015.md" afterPath="$PROJECT_DIR$/_posts/2015-12-25-goodbye-2015.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-12-26-sleeping-analysis.md" afterPath="$PROJECT_DIR$/_posts/2015-12-26-sleeping-analysis.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-12-27-upload-canvas-snapshot-to-nodejs.md" afterPath="$PROJECT_DIR$/_posts/2015-12-27-upload-canvas-snapshot-to-nodejs.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-05-reading-report.md" afterPath="$PROJECT_DIR$/_posts/2016-01-05-reading-report.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-02-02-choosing-a-book.md" afterPath="$PROJECT_DIR$/_posts/2016-02-02-choosing-a-book.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-02-08-mini-story.md" afterPath="$PROJECT_DIR$/_posts/2016-02-08-mini-story.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-02-19-ask-for-technical-help.md" afterPath="$PROJECT_DIR$/_posts/2016-02-19-ask-for-technical-help.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-02-19-burning-books.md" afterPath="$PROJECT_DIR$/_posts/2016-02-19-burning-books.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-02-21-ask-for-technical-help.md" afterPath="$PROJECT_DIR$/_posts/2016-02-21-ask-for-technical-help.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-03-29-my-last-graduation.md" afterPath="$PROJECT_DIR$/_posts/2016-03-29-my-last-graduation.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-04-01-graduate-education.md" afterPath="$PROJECT_DIR$/_posts/2016-04-01-graduate-education.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-04-19-installing-nodebb-on-mac-os.md" afterPath="$PROJECT_DIR$/_posts/2016-04-19-installing-nodebb-on-mac-os.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-05-11-angularjs-pagination-with-bootstrap.md" afterPath="$PROJECT_DIR$/_posts/2016-05-11-angularjs-pagination-with-bootstrap.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-05-23-using-echarts-with-angularjs.md" afterPath="$PROJECT_DIR$/_posts/2016-05-23-using-echarts-with-angularjs.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-05-28-visualization-test.md" afterPath="$PROJECT_DIR$/_posts/2016-05-28-visualization-test.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-07-03-being-sensitive.md" afterPath="$PROJECT_DIR$/_posts/2016-07-03-being-sensitive.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-07-16-visiting-museum-of-contemporary-art-shanghai.md" afterPath="$PROJECT_DIR$/_posts/2016-07-16-visiting-museum-of-contemporary-art-shanghai.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-07-27-non-ui-blocking-javascript.md" afterPath="$PROJECT_DIR$/_posts/2016-07-27-non-ui-blocking-javascript.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-08-17-sericulture.md" afterPath="$PROJECT_DIR$/_posts/2016-08-17-sericulture.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-08-21-reviewing-the-end-of-eternity.md" afterPath="$PROJECT_DIR$/_posts/2016-08-21-reviewing-the-end-of-eternity.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-08-24-using-echarts-with-typescript.md" afterPath="$PROJECT_DIR$/_posts/2016-08-24-using-echarts-with-typescript.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-10-04-drinks-and-books.md" afterPath="$PROJECT_DIR$/_posts/2016-10-04-drinks-and-books.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-10-24-tests.md" afterPath="$PROJECT_DIR$/_posts/2016-10-24-tests.md" />
     </list>
     <ignored path="blog-gh-pages.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,11 +58,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="2015-12-13-listening-to-jiang-xun.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-12-13-listening-to-jiang-xun.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="2015-09-20-reviewing-the-highly-sensitive-person.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-09-20-reviewing-the-highly-sensitive-person.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -37,17 +82,17 @@
         <entry file="file://$PROJECT_DIR$/_posts/2015-09-11-summer-summary.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-08-28-opengl-matrix-transformations.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2015-08-28-opengl-matrix-transformations.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2015-08-28-opengl-matrix-transformations.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -57,7 +102,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2015-07-31-fighting-my-girl.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -67,7 +112,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2015-07-28-javascript-function-arguments-assignment.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -77,7 +122,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2015-07-03-intel-fellows.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -87,7 +132,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2015-06-29-because-of-my-aloneness.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -97,7 +142,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2015-06-25-polyvia.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+              <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -107,17 +152,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2015-06-20-read-from-shader-texture-with-threejs.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2016-10-24-tests.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-10-24-tests.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -154,26 +189,26 @@
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/all.html" />
         <option value="$PROJECT_DIR$/_includes/aboutMe.html" />
-        <option value="$PROJECT_DIR$/_posts/2016-10-24-tests.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-10-04-drinks-and-books.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-08-24-using-echarts-with-typescript.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-08-21-reviewing-the-end-of-eternity.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-08-17-sericulture.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-07-27-non-ui-blocking-javascript.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-07-16-visiting-museum-of-contemporary-art-shanghai.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-07-03-being-sensitive.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-05-28-visualization-test.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-05-23-using-echarts-with-angularjs.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-05-11-angularjs-pagination-with-bootstrap.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-04-19-installing-nodebb-on-mac-os.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-04-01-graduate-education.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-03-29-my-last-graduation.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-02-21-ask-for-technical-help.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-02-19-burning-books.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-02-19-ask-for-technical-help.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-02-08-mini-story.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-02-02-choosing-a-book.md" />
         <option value="$PROJECT_DIR$/_posts/2016-01-05-reading-report.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-02-02-choosing-a-book.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-02-08-mini-story.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-02-19-ask-for-technical-help.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-02-19-burning-books.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-02-21-ask-for-technical-help.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-03-29-my-last-graduation.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-04-01-graduate-education.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-04-19-installing-nodebb-on-mac-os.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-05-11-angularjs-pagination-with-bootstrap.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-05-23-using-echarts-with-angularjs.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-05-28-visualization-test.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-07-03-being-sensitive.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-07-16-visiting-museum-of-contemporary-art-shanghai.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-07-27-non-ui-blocking-javascript.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-08-17-sericulture.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-08-21-reviewing-the-end-of-eternity.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-08-24-using-echarts-with-typescript.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-10-04-drinks-and-books.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-10-24-tests.md" />
         <option value="$PROJECT_DIR$/_posts/2015-12-27-upload-canvas-snapshot-to-nodejs.md" />
         <option value="$PROJECT_DIR$/_posts/2015-12-26-sleeping-analysis.md" />
         <option value="$PROJECT_DIR$/_posts/2015-12-25-goodbye-2015.md" />
@@ -483,14 +518,7 @@
       <workItem from="1477679496945" duration="14048000" />
       <workItem from="1477841198926" duration="6628000" />
       <workItem from="1477863369556" duration="25401000" />
-      <workItem from="1478080254702" duration="35595000" />
-    </task>
-    <task id="LOCAL-00089" summary="setup">
-      <created>1478093920177</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1478093920177</updated>
+      <workItem from="1478080254702" duration="35998000" />
     </task>
     <task id="LOCAL-00090" summary="setup">
       <created>1478094981637</created>
@@ -828,11 +856,18 @@
       <option name="project" value="LOCAL" />
       <updated>1478171241411</updated>
     </task>
-    <option name="localTasksCounter" value="138" />
+    <task id="LOCAL-00138" summary="setup">
+      <created>1478171724122</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1478171724122</updated>
+    </task>
+    <option name="localTasksCounter" value="139" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121275000" />
+    <option name="totallyTimeSpent" value="121678000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1932" height="1038" extended-state="0" />
@@ -1004,278 +1039,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-10-04-drinks-and-books.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-08-24-using-echarts-with-typescript.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-08-21-reviewing-the-end-of-eternity.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-08-17-sericulture.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-07-27-non-ui-blocking-javascript.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-07-16-visiting-museum-of-contemporary-art-shanghai.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-07-03-being-sensitive.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-05-28-visualization-test.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-05-23-using-echarts-with-angularjs.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-05-11-angularjs-pagination-with-bootstrap.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-04-19-installing-nodebb-on-mac-os.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-04-01-graduate-education.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-03-29-my-last-graduation.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-02-21-ask-for-technical-help.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-02-19-burning-books.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-02-19-ask-for-technical-help.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-02-08-mini-story.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-02-02-choosing-a-book.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-01-05-reading-report.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-12-27-upload-canvas-snapshot-to-nodejs.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-12-26-sleeping-analysis.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-12-25-goodbye-2015.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-12-21-bos-access-with-bce.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-12-19-render-jade-on-server-side.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-12-13-listening-to-jiang-xun.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-09-20-reviewing-the-highly-sensitive-person.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-09-11-summer-summary.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-08-28-opengl-matrix-transformations.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-07-31-fighting-my-girl.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-07-28-javascript-function-arguments-assignment.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-07-03-intel-fellows.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-06-29-because-of-my-aloneness.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-06-25-polyvia.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-06-20-read-from-shader-texture-with-threejs.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-06-18-ink.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1284,10 +1047,282 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-01-05-reading-report.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-02-02-choosing-a-book.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-02-08-mini-story.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-02-19-ask-for-technical-help.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-02-19-burning-books.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-02-21-ask-for-technical-help.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-03-29-my-last-graduation.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-04-01-graduate-education.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-04-19-installing-nodebb-on-mac-os.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-05-11-angularjs-pagination-with-bootstrap.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-05-23-using-echarts-with-angularjs.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-05-28-visualization-test.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-07-03-being-sensitive.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-07-16-visiting-museum-of-contemporary-art-shanghai.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-07-27-non-ui-blocking-javascript.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-08-17-sericulture.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-08-21-reviewing-the-end-of-eternity.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-08-24-using-echarts-with-typescript.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-10-04-drinks-and-books.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-10-24-tests.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-12-27-upload-canvas-snapshot-to-nodejs.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-12-26-sleeping-analysis.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-12-25-goodbye-2015.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-12-21-bos-access-with-bce.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-12-19-render-jade-on-server-side.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-12-13-listening-to-jiang-xun.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-09-20-reviewing-the-highly-sensitive-person.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-09-11-summer-summary.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-07-31-fighting-my-girl.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-07-28-javascript-function-arguments-assignment.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-07-03-intel-fellows.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-06-29-because-of-my-aloneness.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-06-25-polyvia.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-06-20-read-from-shader-texture-with-threejs.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-08-28-opengl-matrix-transformations.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
           <folding />
         </state>
       </provider>

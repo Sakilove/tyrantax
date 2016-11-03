@@ -6,7 +6,7 @@ tags:
 - NodeBB
 - MongoDB
 - NodeJs
-category:编程
+category: 编程
 excerpt: My attempt to use NodeBB could be largely attributed to the simplicity of its <a href="https://docs.nodebb.org/en/latest/installing/os/osx-mavericks.html" target="_blank">install instructions</a>. Yet I ended up spending much more time fixing all kinds of install problems. So this post serves as a hint for someone who runs into a similar situation.
 ---
 

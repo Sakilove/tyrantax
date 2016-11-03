@@ -5,7 +5,7 @@ layout: post
 tags:
 - AngularJs
 - ECharts
-category:编程
+category: 编程
 excerpt: <a href="http://echarts.baidu.com">ECharts</a> is a powerful JavaScript library to make amazing charts. This post introduces how to use ECharts in <a href="http://stackoverflow.com/questions/13329485/mvw-what-does-it-stand-for"><em>MVW</em></a> style.
 ---
 

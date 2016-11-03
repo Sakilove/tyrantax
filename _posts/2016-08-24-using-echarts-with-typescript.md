@@ -6,7 +6,7 @@ tags:
 - ECharts
 - TypeScript
 - JavaScript
-category:编程
+category: 编程
 excerpt: This post introduces how to set up TypeScript environment with ECharts.
 ---
 

@@ -4,7 +4,7 @@ time: 2016.07.27 13:44:48
 layout: post
 tags:
 - JavaScript
-category:编程
+category: 编程
 excerpt: JavaScript often behaves like a multi-thread language with it's event-based nature. But it's not. In this post, I'm talking about how to prevent blocking UI when doing some heavy work in JavaScript.
 ---
 
