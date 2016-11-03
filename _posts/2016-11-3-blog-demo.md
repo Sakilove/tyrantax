@@ -17,22 +17,34 @@ This is a normal sentence.
 #This is a h1 sentence.
 > This is a quote.
 
-~~~bash
+```bash
 this is a bash code.
-~~~
+```
+```html
+<div>
+	<img scr=''>
+</div>
+```
+```c++
+void main(){
+	cout<< 'holle world';
+}
+```
+```css
+.p{
+	height:10px;
+}
+```
 `this is a hightlight keyword`
 
     npm install jekyll
 
  
-
+```html
     <div>
 	    <img src = "" style = "height:80px"/>
     </div>
-
-    void main(){
-		cout<<"hello world";
-	}
+   ```
 
    
 
