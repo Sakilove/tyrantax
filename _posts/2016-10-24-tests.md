@@ -13,8 +13,11 @@ excerpt: This is a Demo
 ---
 
 This is a normal sentence.
-<em>This is a em sentence.<em>
+
+*This is a em sentence.*
+
 #This is a h1 sentence.
+
 > This is a quote.
 
 ```bash
