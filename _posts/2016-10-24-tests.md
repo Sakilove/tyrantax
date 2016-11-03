@@ -16,8 +16,8 @@ This is a normal sentence.
 
 *This is a em sentence.*
 
-## This is a h2 sentence. 
-# This is a h1 sentence.
+## This is a h2 sentence. ##
+# This is a h1 sentence. #
 
 > This is a quote.
 
