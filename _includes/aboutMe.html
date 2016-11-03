@@ -24,7 +24,7 @@
     {% endif %}
     {% endfor %}
     {% assign curTag = uniqTag | remove_first:'[' | remove_first:']' %}
-    <a class="button tag" href="{{ site.url }}/all?tag={{curTag}}" onclick="_gaq.push(['_trackEvent', '{{curTag}}', 'InNav', window.location.pathname]);">{{curTag}}<span>{{counter}}</span></a>
+    <a class="tape" href="{{ site.url }}/all?tag={{curTag}}" onclick="_gaq.push(['_trackEvent', '{{curTag}}', 'InNav', window.location.pathname]);">{{curTag}}<span>{{counter}}</span></a>
     {% endfor %}
 </div>
 

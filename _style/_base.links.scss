@@ -69,3 +69,44 @@ h1>a {
     }
   }
 }
+.tape {
+  padding: 5px 8px 2px 8px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  display: inline-block;
+  color: $clr-def-lighter;
+  font-family: $ft-fm-code;
+  font-size: $ft-sz-smer;
+  text-shadow: none;
+  @include transition-duration(0.5s);
+
+  background-color: hsla(168, 91%, 51%, 0.2);
+  box-shadow: inset 0 0 1em .5em hsla(168, 91%, 51%, 0.1);
+  -webkit-filter: drop-shadow(0 1px 1px hsla(0,0%,0%,.3));
+
+
+  &:hover {
+    color: $clr-contrast;
+  }
+  &:after,
+  &:before {
+    background-size: .4em .4em;
+    bottom: 0;
+    content: '';
+    position: absolute;
+    top: 0;
+    width: .2em;
+  }
+  &:after {
+    background-image: linear-gradient(45deg, transparent 50%, hsla(168, 91%, 51%, 0.3) 50%),
+    linear-gradient(-45deg, transparent 50%, hsla(168, 91%, 51%, 0.3) 50%);
+    background-position: 0 100%;
+    left: -.2em;
+  }
+  &:before {
+    background-image: linear-gradient(135deg, transparent 50%, hsla(168, 91%, 51%, 0.3) 50%),
+    linear-gradient(-135deg, transparent 50%, hsla(168, 91%, 51%, 0.3) 50%);
+    background-position: 100% 100%;
+    right: -.2em;
+  }
+}
