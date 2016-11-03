@@ -3,46 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6b8b7b31-a463-4916-911c-ac1a8b7cc6ba" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/aboutMe.html" afterPath="$PROJECT_DIR$/_includes/aboutMe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-06-20-read-from-shader-texture-with-threejs.md" afterPath="$PROJECT_DIR$/_posts/2015-06-20-read-from-shader-texture-with-threejs.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-06-25-polyvia.md" afterPath="$PROJECT_DIR$/_posts/2015-06-25-polyvia.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-06-29-because-of-my-aloneness.md" afterPath="$PROJECT_DIR$/_posts/2015-06-29-because-of-my-aloneness.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-07-03-intel-fellows.md" afterPath="$PROJECT_DIR$/_posts/2015-07-03-intel-fellows.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-07-28-javascript-function-arguments-assignment.md" afterPath="$PROJECT_DIR$/_posts/2015-07-28-javascript-function-arguments-assignment.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-07-31-fighting-my-girl.md" afterPath="$PROJECT_DIR$/_posts/2015-07-31-fighting-my-girl.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-08-28-opengl-matrix-transformations.md" afterPath="$PROJECT_DIR$/_posts/2015-08-28-opengl-matrix-transformations.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-09-11-summer-summary.md" afterPath="$PROJECT_DIR$/_posts/2015-09-11-summer-summary.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-09-20-reviewing-the-highly-sensitive-person.md" afterPath="$PROJECT_DIR$/_posts/2015-09-20-reviewing-the-highly-sensitive-person.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-12-13-listening-to-jiang-xun.md" afterPath="$PROJECT_DIR$/_posts/2015-12-13-listening-to-jiang-xun.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-12-19-render-jade-on-server-side.md" afterPath="$PROJECT_DIR$/_posts/2015-12-19-render-jade-on-server-side.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-12-21-bos-access-with-bce.md" afterPath="$PROJECT_DIR$/_posts/2015-12-21-bos-access-with-bce.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-12-25-goodbye-2015.md" afterPath="$PROJECT_DIR$/_posts/2015-12-25-goodbye-2015.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-12-26-sleeping-analysis.md" afterPath="$PROJECT_DIR$/_posts/2015-12-26-sleeping-analysis.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-12-27-upload-canvas-snapshot-to-nodejs.md" afterPath="$PROJECT_DIR$/_posts/2015-12-27-upload-canvas-snapshot-to-nodejs.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-05-reading-report.md" afterPath="$PROJECT_DIR$/_posts/2016-01-05-reading-report.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-02-02-choosing-a-book.md" afterPath="$PROJECT_DIR$/_posts/2016-02-02-choosing-a-book.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-02-08-mini-story.md" afterPath="$PROJECT_DIR$/_posts/2016-02-08-mini-story.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-02-19-ask-for-technical-help.md" afterPath="$PROJECT_DIR$/_posts/2016-02-19-ask-for-technical-help.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-02-19-burning-books.md" afterPath="$PROJECT_DIR$/_posts/2016-02-19-burning-books.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-02-21-ask-for-technical-help.md" afterPath="$PROJECT_DIR$/_posts/2016-02-21-ask-for-technical-help.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-03-29-my-last-graduation.md" afterPath="$PROJECT_DIR$/_posts/2016-03-29-my-last-graduation.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-04-01-graduate-education.md" afterPath="$PROJECT_DIR$/_posts/2016-04-01-graduate-education.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-04-19-installing-nodebb-on-mac-os.md" afterPath="$PROJECT_DIR$/_posts/2016-04-19-installing-nodebb-on-mac-os.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-05-11-angularjs-pagination-with-bootstrap.md" afterPath="$PROJECT_DIR$/_posts/2016-05-11-angularjs-pagination-with-bootstrap.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-05-23-using-echarts-with-angularjs.md" afterPath="$PROJECT_DIR$/_posts/2016-05-23-using-echarts-with-angularjs.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-05-28-visualization-test.md" afterPath="$PROJECT_DIR$/_posts/2016-05-28-visualization-test.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-07-03-being-sensitive.md" afterPath="$PROJECT_DIR$/_posts/2016-07-03-being-sensitive.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-07-16-visiting-museum-of-contemporary-art-shanghai.md" afterPath="$PROJECT_DIR$/_posts/2016-07-16-visiting-museum-of-contemporary-art-shanghai.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-07-27-non-ui-blocking-javascript.md" afterPath="$PROJECT_DIR$/_posts/2016-07-27-non-ui-blocking-javascript.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-08-17-sericulture.md" afterPath="$PROJECT_DIR$/_posts/2016-08-17-sericulture.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-08-21-reviewing-the-end-of-eternity.md" afterPath="$PROJECT_DIR$/_posts/2016-08-21-reviewing-the-end-of-eternity.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-08-24-using-echarts-with-typescript.md" afterPath="$PROJECT_DIR$/_posts/2016-08-24-using-echarts-with-typescript.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-10-04-drinks-and-books.md" afterPath="$PROJECT_DIR$/_posts/2016-10-04-drinks-and-books.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-10-24-tests.md" afterPath="$PROJECT_DIR$/_posts/2016-10-24-tests.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_style/_base.links.scss" afterPath="$PROJECT_DIR$/_style/_base.links.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/all.html" afterPath="$PROJECT_DIR$/all.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/default.min.css" afterPath="$PROJECT_DIR$/css/default.min.css" />
     </list>
     <ignored path="blog-gh-pages.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -523,14 +483,7 @@
       <workItem from="1477679496945" duration="14048000" />
       <workItem from="1477841198926" duration="6628000" />
       <workItem from="1477863369556" duration="25401000" />
-      <workItem from="1478080254702" duration="34866000" />
-    </task>
-    <task id="LOCAL-00086" summary="setup">
-      <created>1478093162510</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1478093162510</updated>
+      <workItem from="1478080254702" duration="35052000" />
     </task>
     <task id="LOCAL-00087" summary="setup">
       <created>1478093366320</created>
@@ -868,11 +821,18 @@
       <option name="project" value="LOCAL" />
       <updated>1478156368487</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="setup">
+      <created>1478170996563</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1478170996563</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120546000" />
+    <option name="totallyTimeSpent" value="120732000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1932" height="1038" extended-state="0" />
