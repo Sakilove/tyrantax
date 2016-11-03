@@ -74,7 +74,7 @@ h1>a {
   margin-right: 5px;
   margin-bottom: 5px;
   display: inline-block;
-  color: $clr-def-lighter;
+  color: #44edc2;
   font-family: $ft-fm-code;
   font-size: $ft-sz-smer;
   text-shadow: none;
@@ -88,25 +88,5 @@ h1>a {
   &:hover {
     color: $clr-contrast;
   }
-  &:after,
-  &:before {
-    background-size: .4em .4em;
-    bottom: 0;
-    content: '';
-    position: absolute;
-    top: 0;
-    width: .2em;
-  }
-  &:after {
-    background-image: linear-gradient(45deg, transparent 50%, hsla(168, 91%, 51%, 0.3) 50%),
-    linear-gradient(-45deg, transparent 50%, hsla(168, 91%, 51%, 0.3) 50%);
-    background-position: 0 100%;
-    left: -.2em;
-  }
-  &:before {
-    background-image: linear-gradient(135deg, transparent 50%, hsla(168, 91%, 51%, 0.3) 50%),
-    linear-gradient(-135deg, transparent 50%, hsla(168, 91%, 51%, 0.3) 50%);
-    background-position: 100% 100%;
-    right: -.2em;
-  }
+
 }
