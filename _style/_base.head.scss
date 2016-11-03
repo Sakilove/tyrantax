@@ -18,7 +18,8 @@ h1 {
   color: $clr-primary;
   position: relative;
   overflow: visible;
-
+  border-style: solid;
+  border-width: 26px 23px 26px 24px;
   -moz-border-image: url(../img/dash-line.png) 26 23 26 24 repeat;
   -webkit-border-image: url(../img/dash-line.png) 26 23 26 24 repeat;
   -o-border-image: url(../img/dash-line.png) 26 23 26 24 repeat;
