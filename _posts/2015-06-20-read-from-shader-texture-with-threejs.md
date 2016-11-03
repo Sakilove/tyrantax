@@ -7,6 +7,7 @@ tags:
 - ThreeJs
 - WebGL
 - Shader
+category:编程
 series: Polyvia
 excerpt: In this post, we are going to introduce how to use <code>THREE.ShaderPass</code> to write shaders for video from local camera and get pixel data from the rendered composer. We will take <code>THREE.EdgeShader</code> as example and read the rendered edges from it.
 ---

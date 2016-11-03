@@ -3,28 +3,28 @@
 </div>
 
 <div class="center">
-    {% assign tagStr = "" %}
+    {% assign categoryStr = "" %}
     {% for post in site.posts %}
     {% if post.hide != true %}
-    {%for tag in post.tags %}
-    {% capture tagStr %}
-    {{tagStr}},[{{tag}}]
+
+    {% capture categoryStr %}
+    {{categoryStr}},[{{post.category}}]
     {% endcapture %}
-    {% endfor %}
+
     {% endif%}
     {% endfor%}
-    {% assign tagStr = tagStr | remove_first:',' %}
-    {% assign tagArr = tagStr | split: ',' %}
-    {% assign tagUniqArr = tagStr | split:',' | uniq %}
-    {% for uniqTag in tagUniqArr %}
+    {% assign categoryStr = categoryStr | remove_first:',' %}
+    {% assign categoryArr = categoryStr | split: ',' %}
+    {% assign categoryUniqArr = categoryStr | split:',' | uniq %}
+    {% for uniqCategory in categoryUniqArr %}
     {% assign counter = 0 %}
-    {% for  tag in tagArr %}
-    {% if uniqTag == tag %}
+    {% for  category in categoryArr %}
+    {% if uniqCategory == category %}
     {% assign counter = counter | plus:1 %}
     {% endif %}
     {% endfor %}
-    {% assign curTag = uniqTag | remove_first:'[' | remove_first:']' %}
-    <a class="tape" href="{{ site.url }}/all?tag={{curTag}}" onclick="_gaq.push(['_trackEvent', '{{curTag}}', 'InNav', window.location.pathname]);">{{curTag}}<span>{{counter}}</span></a>
+    {% assign curCategory = uniqCategory | remove_first:'[' | remove_first:']' %}
+    <a class="tape" href="{{ site.url }}/all?category={{curCategory}}" onclick="_gaq.push(['_trackEvent', '{{curCategory}}', 'InNav', window.location.pathname]);">{{curCategory}}<span>{{counter}}</span></a>
     {% endfor %}
 </div>
 

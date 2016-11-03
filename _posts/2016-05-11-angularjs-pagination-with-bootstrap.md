@@ -5,6 +5,7 @@ layout: post
 tags:
 - AngularJs
 - Bootstrap
+category:编程
 excerpt: This post introduces how to make a pagination component with Angular.js and Bootstrap.
 ---
 

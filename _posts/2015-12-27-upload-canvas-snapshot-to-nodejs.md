@@ -7,6 +7,7 @@ tags:
 - JavaScript
 - Canvas
 - BOS
+category:编程
 excerpt: This post talks about how to generate a snapshot image from canvas and upload to Node.js, and then save to <a href="http://bce.baidu.com/doc/BOS/index.html" target="_blank">BOS</a>. Since BOS has a limit for file name, we first save it locally on Node.js server  and then upload to BOS.
 ---
 

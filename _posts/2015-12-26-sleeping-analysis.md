@@ -9,6 +9,7 @@ tags:
 - 统计
 - 失眠
 - ECharts
+category:生活
 excerpt: 昨天写年度总结，突然想起来以前安卓手机上有两年多的 <a href="https://mysleepbot.com/" target="_blank">SleepBot</a> 睡眠数据，今天终于整理好，用 Node.js <a href="https://gist.github.com/Ovilia/0cfe77f3ea69bf6fb09c" target="_blank">预处理数据</a>，用 <a href="http://echarts.baidu.com" target="_blank">ECharts</a> 画成图表了。数据是从网页版 <a href="https://mysleepbot.com/" target="_blank">SleepBot</a> 导出的，我没想到它非常贴心地提供了 CSV 数据下载，实在非常感动！
 ---
 

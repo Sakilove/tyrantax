@@ -4,6 +4,7 @@ time: 2015.07.29 09:30:22
 layout: post
 tags:
 - JavaScript
+category:编程
 excerpt: This post introduces what happens when you assign new values to arguments fo a function. <code>arguments</code> is a special variable passed to all functions so that <em>actual parameters</em> are accessible even when they are not declared as <em>formal parameters</em>.
 ---
 

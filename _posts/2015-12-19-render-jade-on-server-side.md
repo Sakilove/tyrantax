@@ -7,6 +7,7 @@ tags:
 - JavaScript
 - NodeJs
 - ExpressJs
+category:编程
 excerpt: This post introduces how to set file path when using <code>renderFile</code> of Jade.
 ---
 
