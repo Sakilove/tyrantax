@@ -40,19 +40,8 @@ void main(){
 ```
 `this is a hightlight keyword`
 
-    npm install jekyll
 
- 
-```html
-    <div>
-	    <img src = "" style = "height:80px"/>
-    </div>
-   ```
+![img](http://120.27.93.212:8080/pic-server//upload/2/2/timeago3723c8465-3443-4b30-a67b-d1963bdfc2d9.png)
 
-   
-
-
-
-![enter image description here](http://120.27.93.212:8080/pic-server//upload/2/2/timeago3723c8465-3443-4b30-a67b-d1963bdfc2d9.png)
 > This post introduces how to set up TypeScript environment with ECharts.
 
