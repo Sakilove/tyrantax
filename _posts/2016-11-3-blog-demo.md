@@ -19,7 +19,7 @@ This is a normal sentence.
 
 > This is a quote.
 
-`this is a hightlight keyword`
+this is a `hightlight keyword`
 
 `bash code`
 
