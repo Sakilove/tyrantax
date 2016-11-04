@@ -27,4 +27,3 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      time: Time.now
