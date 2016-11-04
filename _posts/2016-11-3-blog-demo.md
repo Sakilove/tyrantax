@@ -1,7 +1,6 @@
 ---
 title: Blog Demo
 subtitle: This id a subtitle
-time: 2016.11.03 20:45:01
 layout: post
 tags:
 - 中文
@@ -14,13 +13,23 @@ excerpt: This is a Demo
 
 This is a normal sentence.
 
+Heading
+=======
+
+Heading
+
+
+
+
+=======
+
 *This is a em sentence.*
 
 ## This is a h2 sentence. ##
 
 #  This is a h1 sentence. 
 
-> This is a quote.
+>  This is a quote.
 
 ```bash
 this is a bash code.
