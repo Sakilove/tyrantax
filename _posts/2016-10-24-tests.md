@@ -10,19 +10,24 @@ excerpt: This is a Demo
 ---
 
 This is a normal sentence.
+
 *This is a italic sentence.*
-#  This is a h1 sentence.
-##   This is a h2 sentence.
+
+#  This is a h1 sentence.#
+##   This is a h2 sentence. ##
 
 > This is a quote.
 
 `this is a hightlight keyword`
 
 `bash code`
+
 ```bash
 this is a bash code.
 ```
+
 `python code`
+
 ```python
 >>> def fib(n):
 >>>     a, b = 0, 1
@@ -32,33 +37,45 @@ this is a bash code.
 >>>     print()
 >>> fib(1000)
 ```
+
 `html code`
+
 ```html
 <div>
 	<h1>hello world<h1>
 </div>
 ```
+
 `css code`
+
 ```css
 p{
 color:#ccc;
 }
 ```
+
 `java code`
+
 ```java
 System.out("hello world");
 ```
+
 `c++ code`
+
 ```c++
 void mian(){
 	cout<<"hello world";
 }
 ```
+
 `js code`
+
 ```javascript
 console.log("hello world");
 ```
+
 `swift code`
+
 ```swift
 let view = new view();
 ```
