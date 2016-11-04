@@ -20,3 +20,11 @@ permalink: pretty
 gems:
 - jekyll-paginate
 exclude: ["node_modules"]
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      time: date
