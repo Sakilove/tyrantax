@@ -1,7 +1,6 @@
 ---
 title: Blog Demo
 subtitle: This id a subtitle
-time: 2016.11.03 20:45:01
 layout: post
 tags:
 - 中文
@@ -13,6 +12,16 @@ excerpt: This is a Demo
 ---
 
 This is a normal sentence.
+
+Heading
+=======
+
+Heading
+
+
+
+
+=======
 
 *This is a em sentence.*
 
