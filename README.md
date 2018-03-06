@@ -1,6 +1,6 @@
 # Blog of TyrantaX
 
-Blog: http://www.freeclan.net/tyrantax.
+Blog: http://freeclan.jamesyong42.com/tyrantax/.
 
 Topics: Web Front-End Developing and More.
 
