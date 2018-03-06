@@ -35,7 +35,7 @@ function processPageView(rows) {
     $('.post-block').each(function() {
         var myPath = $(this).children('h2').children('a').attr('href');
         if (myPath) {
-            myPath = myPath.slice('http://www.freeclan.net'.length);
+            myPath = myPath.slice('http://freeclan.jamesyong42.com'.length);
             var len = rows.length;
             var cnt = 0;
             for (var i = 0; i < len; ++i) {
