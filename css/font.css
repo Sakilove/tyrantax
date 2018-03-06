@@ -3,28 +3,28 @@
   font-family: 'Lato';
   font-style: normal;
   font-weight: 400;
-  src: local('Lato Light'), local('Lato-Light'), url('http://www.freeclan.net/tyrantax/font/lato400.woff') format('woff');
+  src: local('Lato Light'), local('Lato-Light'), url('http://freeclan.jamesyong42.com/tyrantax/font/lato400.woff') format('woff');
 }
 
 @font-face {
   font-family: 'Lato';
   font-style: normal;
   font-weight: 900;
-  src: local('Lato Black'), local('Lato-Black'), url('http://www.freeclan.net/tyrantax/font/lato900.woff') format('woff');
+  src: local('Lato Black'), local('Lato-Black'), url('http://freeclan.jamesyong42.com/tyrantax/font/lato900.woff') format('woff');
 }
 
 @font-face {
   font-family: 'Lato';
   font-style: italic;
   font-weight: 400;
-  src: local('Lato Italic'), local('Lato-Italic'), url('http://www.freeclan.net/tyrantax/font/lato400i.woff') format('woff');
+  src: local('Lato Italic'), local('Lato-Italic'), url('http://freeclan.jamesyong42.com/tyrantax/font/lato400i.woff') format('woff');
 }
 
 @font-face {
   font-family: 'Lato';
   font-style: italic;
   font-weight: 900;
-  src: local('Lato Black Italic'), local('Lato-BlackItalic'), url('http://www.freeclan.net/tyrantax/font/lato900i.woff') format('woff');
+  src: local('Lato Black Italic'), local('Lato-BlackItalic'), url('http://freeclan.jamesyong42.com/tyrantax/font/lato900i.woff') format('woff');
 }
 @font-face {
   font-family: chaka;
