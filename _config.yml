@@ -1,9 +1,9 @@
 name: "Blog of TyrantaX"
 description: "Web Engineering Blog by TyrantaX"
 
-url: "http://www.freeclan.net/tyrantax"
-loadingImg: "http://www.freeclan.net/tyrantax/img/loading.gif"
-filePath: "http://www.freeclan.net/tyrantax/img"
+url: "http://freeclan.jamesyong42.com/tyrantax"
+loadingImg: "http://freeclan.jamesyong42.com/tyrantax/img/loading.gif"
+filePath: "http://freeclan.jamesyong42.com/tyrantax/img"
 
 timezone: Asia/Beijing
 
